@@ -1,7 +1,3 @@
-from random import choice
-from tkinter import N
-
-
 print('\n\t\t\t**Odd Even finder**\n\n ')
 def even():
     while True:
