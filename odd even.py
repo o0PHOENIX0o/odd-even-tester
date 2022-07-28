@@ -62,7 +62,7 @@ def input_check(val):
             print('invalide input')
     elif val.lower()== 'done':
         print('\n\t\tprogram finished thanks for using')
-        print('\n**_______________________________________________________**')
+        print('\n**','_'*60,'**')
     else:
         print('please check the spellings\n')
 while True:
